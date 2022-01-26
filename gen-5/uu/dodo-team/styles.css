@@ -1,0 +1,49 @@
+.pokemon-name.crobat {
+    color: #b55aa5;
+}
+
+.pokemon-name.blastoise {
+    color: #3a9bfb;
+}
+
+.pokemon-name.bronzong {
+    color: #adadc6;
+}
+
+.pokemon-name.darmanitan {
+    color: #f25130;
+}
+
+.pokemon-name.krookodile {
+    color: #d6b55a;
+}
+
+.pokemon-name.shaymin {
+    color:#8bac62;
+}
+
+.pokemon-name {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.ev-spread {
+    margin-left: auto;
+    margin-right: auto;
+}
