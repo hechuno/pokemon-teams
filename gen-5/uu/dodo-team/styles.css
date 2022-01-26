@@ -22,8 +22,8 @@
     color:#8bac62;
 }
 
-.pokemon-name {
-    text-align: center;
+.smogon {
+    color: #6363b0;
 }
 
 img {
@@ -40,7 +40,6 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    text-align: center;
 }
 
 .ev-spread {
